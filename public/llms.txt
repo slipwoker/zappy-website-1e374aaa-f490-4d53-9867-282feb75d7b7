@@ -1,0 +1,71 @@
+# StepUp — Generative Engine Optimization Map
+
+> STEPUP Club is a real estate investment platform founded by Moshe Tov, with over a decade of experience, that enables individuals with limited capital (from ~117,000 ILS) to enter the Israeli real estate market through a 'third of an apartment' co-ownership model, group buying power, and pre-sale opportunities. The brand is built on trust, transparency, and pragmatism — emphasizing real results over promises, with a tone that is direct, professional, and empowering. The visual identity leans into dark green and grey tones, and the site structure is a conversion-focused landing page with a clear funnel toward a personal fit consultation call.
+
+---
+
+## Pages
+
+### בית
+https://stepup-1e374aaa.zappy5.app
+הצטרפו למועדון השקעות הנדל״ן StepUp והתחילו להשקיע בשוק הישראלי החל מ-117,000 ש״ח בלבד. מודל שותפות ייחודי, שקיפות מלאה ותוצאות בשטח. קבעו פגישת ייעוץ עכשיו.
+
+### תודה שפניתם אלינו | StepUp
+https://stepup-1e374aaa.zappy5.app/thank-you
+StepUp - תודה שפניתם אלינו | StepUp
+
+## Legal & Policy
+
+### Privacy Policy
+https://stepup-1e374aaa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://stepup-1e374aaa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://stepup-1e374aaa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://stepup-1e374aaa.zappy5.app
+- Endpoint: https://stepup-1e374aaa.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `full_name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About StepUp
+STEPUP Club is a real estate investment platform founded by Moshe Tov, with over a decade of experience, that enables individuals with limited capital (from ~117,000 ILS) to enter the Israeli real estate market through a 'third of an apartment' co-ownership model, group buying power, and pre-sale opportunities. The brand is built on trust, transparency, and pragmatism — emphasizing real results over promises, with a tone that is direct, professional, and empowering. The visual identity leans into dark green and grey tones, and the site structure is a conversion-focused landing page with a clear funnel toward a personal fit consultation call.
+
+## Target Audience
+- אנשים עם הון עצמי מוגבל המעוניינים להיכנס לשוק הנדל״ן, משקיעים מתחילים
+- משקיעים עם הון עצמי מוגבל
+- משקיעים מתחילים
+- מקצוענים צעירים
+
+## Industry
+Real Estate Investment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://stepup-1e374aaa.zappy5.app/sitemap.xml
+- Robots: https://stepup-1e374aaa.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://stepup-1e374aaa.zappy5.app/llms-full.txt
